@@ -17,7 +17,6 @@ body {
   font-family: 'Poppins', sans-serif;
   font-weight: bold;
   color: #112031;
-  
 }
 
 .tagline {
@@ -145,7 +144,7 @@ body {
 }
 
 .navb {
-  background-color: white;
+  background-color: #fff;
 }
 
 .navbar-toggler:focus {
